@@ -11,7 +11,7 @@
   </parent>
   
   <artifactId>readonly-parameters</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Readonly Parameter plugin</name>
   <description>Integrates Jenkins to build with readonly parameter</description>
@@ -59,7 +59,7 @@
 	<scm>
         <connection>scm:git:git://github.com/jenkinsci/readonly-parameter-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:jenkinsci/readonly-parameter-plugin.git</developerConnection>
-      <tag>readonly-parameters-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
