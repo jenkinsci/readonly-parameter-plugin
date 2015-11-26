@@ -9,10 +9,10 @@ readonly-parameter-plugin
 
 ##Use case
 After the plugin is installed,in job configuration's page,you can see readonly Parameter:<br>
-![](https://github.com/wy-scm/readonly-parameter/raw/master/images/add_para.png)
+![](https://github.com/jenkinsci/readonly-parameter-plugin/blob/master/images/add_para.jpg)
 
 for example,you add two readonly parameter,respectively called readonly_para_str and readonly_para_text.<br>
-![](https://github.com/wy-scm/readonly-parameter/raw/master/images/edit_para.png)
+![](https://github.com/jenkinsci/readonly-parameter-plugin/blob/master/images/edit_para.jpg)
 
 click 'Build With Parameters' link ,the parameter readonly_para_str and readonly_para_text of the set before ,display readonly,and can not be edited in this page. <br>
-![](https://github.com/wy-scm/readonly-parameter/raw/master/images/build_para.png)
+![](https://github.com/jenkinsci/readonly-parameter-plugin/blob/master/images/build_para.jpg)
